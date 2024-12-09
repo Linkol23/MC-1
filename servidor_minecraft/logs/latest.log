@@ -765,3 +765,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'abyssalcraft:cobblestone'
 [03:09:33] [Server thread/INFO] [tombstone]: Seb0401 has successfully been saved
 [03:09:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Seb0401 moved wrongly!
 [03:09:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has made the advancement [Dragonslayer]
+[03:13:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 was killed by magic
+[03:13:40] [Server thread/INFO] [tombstone]: The last known grave of Seb0401 is at location [name:Last Grave, x:798, y:62, z:20] in the dimension 0
+[03:13:40] [Server thread/INFO] [tombstone]: Seb0401 has successfully been saved
+[03:25:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 has made the advancement [Acquire Hardware]
+[03:27:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 was electrocuted after failing to pick an enchanted lock
+[03:27:08] [Server thread/INFO] [tombstone]: The last known grave of Seb0401 is at location [name:Last Grave, x:800, y:62, z:19] in the dimension 0
+[03:27:08] [Server thread/INFO] [tombstone]: Seb0401 has successfully been saved
+[03:27:10] [Thread-61/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 143ad5bb-426f-3bb8-9dbc-3d0cd8b05986.
+[03:28:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Seb0401 was electrocuted after failing to pick an enchanted lock
+[03:28:51] [Server thread/INFO] [tombstone]: The last known grave of Seb0401 is at location [name:Last Grave, x:786, y:62, z:27] in the dimension 0
+[03:28:52] [Server thread/INFO] [tombstone]: Seb0401 has successfully been saved
